@@ -1,7 +1,7 @@
 ### Download Heroku CLI and Node.js and git from the official websites and create a heroku account on https://signup.heroku.com/.
- -Heroku - https://devcenter.heroku.com/articles/heroku-cli#download-and-install
- -Node.js -https://nodejs.org/en/download/
- -Git - https://git-scm.com/downloads
+1. Heroku - https://devcenter.heroku.com/articles/heroku-cli#download-and-install
+2. Node.js -https://nodejs.org/en/download/
+3. Git - https://git-scm.com/downloads
 
 #### Setting up git (Only once during the setup)
 1. ```git config --global user.name "Your name here"```
