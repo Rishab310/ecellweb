@@ -10,7 +10,7 @@ At this point you can view the project on your local machine using  ```npm run s
 6. Make changes and check the changes locally using at http://localhost:3000 after starting the server.
 
 8. To stage your changes (staged changes can be commited)  ```git add .```
-9. Commit your chages locally using  ```git commit -m "your message"```
+9. Commit your chages locally using  ```git commit -m "your message"``` (Add a relevent message giving info about the changes as these commits are reviewed)
 10. Pull any changes from the remote  ```git pull heroku master```
 11. Push your commit changes to  the remote  ```git push heroku master```
 
