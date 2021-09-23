@@ -15,7 +15,7 @@
 
 #### At this point you can view the project on your local machine using  ```npm run start``` (root directory)
 
-1. Make changes and check the changes locally using at http://localhost:3000 after starting the server.
+1. Make changes and check the changes locally at http://localhost:3000 after starting the server.
 
 2. To stage your changes (staged changes can be commited)  ```git add .```
 3. Commit your chages locally using  ```git commit -m "your message"``` (Add a relevent message giving info about the changes as these commits are reviewed)
