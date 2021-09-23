@@ -10,5 +10,6 @@ All the enthusiasts who are willing to contribute to the site can resolve the pr
 
 All the issues have been clearly described on the following link -
 https://github.com/Rishab310/ecellweb/issues
+Developement server - https://dummy-project-ecell.herokuapp.com/
 
 You can read [Contribute.md](./Contribute.md) for further details.
